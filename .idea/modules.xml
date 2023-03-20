@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/book-small-spring.iml" filepath="$PROJECT_DIR$/.idea/book-small-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-01/spring-step-01.iml" filepath="$PROJECT_DIR$/spring-step-01/spring-step-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-02/spring-step-02.iml" filepath="$PROJECT_DIR$/spring-step-02/spring-step-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-03/spring-step-03.iml" filepath="$PROJECT_DIR$/spring-step-03/spring-step-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-04/spring-step-04.iml" filepath="$PROJECT_DIR$/spring-step-04/spring-step-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-05/spring-step-05.iml" filepath="$PROJECT_DIR$/spring-step-05/spring-step-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-06/spring-step-06.iml" filepath="$PROJECT_DIR$/spring-step-06/spring-step-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-07/spring-step-07.iml" filepath="$PROJECT_DIR$/spring-step-07/spring-step-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-08/spring-step-08.iml" filepath="$PROJECT_DIR$/spring-step-08/spring-step-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-09/spring-step-09.iml" filepath="$PROJECT_DIR$/spring-step-09/spring-step-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-10/spring-step-10.iml" filepath="$PROJECT_DIR$/spring-step-10/spring-step-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-11/spring-step-11.iml" filepath="$PROJECT_DIR$/spring-step-11/spring-step-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-step-12/spring-step-12.iml" filepath="$PROJECT_DIR$/spring-step-12/spring-step-12.iml" />
+    </modules>
+  </component>
+</project>
